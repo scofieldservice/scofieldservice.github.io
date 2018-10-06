@@ -1,0 +1,18 @@
+# Site settings
+title: Scofield Service Company
+# State A/C contractor license
+license: "TACL B009127E"
+# email: youremailaddress@gmail.com
+description: Scofield Service Company - HVAC professionals serving the Atascosa-Bexar county area since 1990
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://scofieldservice.com" # the base hostname & protocol for your site
+
+# Homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 3
+
+# Misc settings
+featured-image-source:
+
+# Build settings
+markdown: kramdown
